@@ -8,6 +8,8 @@
 - `references/motion.md`：动效与微交互的具体数值。
 - `references/engineering.md`：布局稳定、弹窗、滚动等实现细节清单。
 - `references/terms.md`：浮层、滚动、加载、转场、悬停、图标动效术语表。
+- `references/radius.md`：同心圆角（内圆角 = 外圆角 − 内边距）和 Web 连续圆角。
+- `references/ios.md`：iOS（SwiftUI / UIKit）端的圆角、间距、颜色、图标、动效和验收写法。
 
 ## 使用
 
@@ -17,4 +19,4 @@
 
 ## 致谢
 
-动效数值、设计工程细节和术语表的大部分内容整理自 Gabriel（[@gabriell_lab](https://x.com/gabriell_lab)）公开的设计工程笔记，每条附原帖链接。
+动效数值、设计工程细节和术语表的大部分内容整理自 Gabriel（[@gabriell_lab](https://x.com/gabriell_lab)）公开的设计工程笔记，每条附原帖链接。同心圆角与连续圆角参考了枯白（[@Kubai087](https://x.com/Kubai087)）的分享。
