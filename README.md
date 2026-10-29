@@ -10,6 +10,7 @@
 - `references/terms.md`：浮层、滚动、加载、转场、悬停、图标动效术语表。
 - `references/radius.md`：同心圆角（内圆角 = 外圆角 − 内边距）和 Web 连续圆角。
 - `references/ios.md`：iOS（SwiftUI / UIKit）端的圆角、间距、颜色、图标、动效和验收写法。
+- `references/alignment-check.md`：交付前对齐测量（脚本、判定标准、交付要求），每次改界面都要做。
 
 ## 使用
 
